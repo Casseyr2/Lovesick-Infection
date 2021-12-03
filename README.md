@@ -4,4 +4,5 @@ in order to cure them. You have 3 lives if you don't throw the hearts fast enoug
 
 Can you survive the lovesick infection?
 
+12/2/21
 Alpha Version is out now it has a couple bugs but will be fixed in future updates.
